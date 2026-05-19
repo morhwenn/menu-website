@@ -4,15 +4,15 @@
     "category": "Viande"
   },
   "Boeuf": {
-    "unit": "pièce",
+    "unit": "g",
     "category": "Viande"
   },
   "Dinde": {
-    "unit": "pièce",
+    "unit": "g",
     "category": "Viande"
   },
   "Saucisse": {
-    "unit": "pièce",
+    "unit": "g",
     "category": "Viande"
   },
   "Haché": {
@@ -24,7 +24,7 @@
     "category": "Viande"
   },
   "Poisson": {
-    "unit": "pièce",
+    "unit": "g",
     "category": "Poisson"
   },
   "Pâtes": {
@@ -36,7 +36,7 @@
     "category": "Epicerie"
   },
   "Nouilles": {
-    "unit": "paquet",
+    "unit": "g",
     "category": "Epicerie"
   },
   "Ebly": {
@@ -96,7 +96,7 @@
     "category": "Fruits & Légumes"
   },
   "Haricots": {
-    "unit": "g",
+    "unit": "bocal",
     "category": "Fruits & Légumes"
   },
   "Avocat": {
@@ -120,7 +120,7 @@
     "category": "Crèmerie"
   },
   "Crème": {
-    "unit": "ml",
+    "unit": "cl",
     "category": "Crèmerie"
   },
   "Oeufs": {
