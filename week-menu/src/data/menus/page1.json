@@ -5,7 +5,15 @@
     "ingredients": [
       {
         "item": "Poulet",
-        "quantity": 300
+        "quantity": 400
+      },
+       {
+        "item": "Nouilles Udon ou ramen",
+        "quantity": 500
+      },
+       {
+        "item": "Légumes (mix ou de saison)",
+        "quantity": 400
       }
     ]
   },
@@ -15,15 +23,19 @@
     "ingredients": [
       {
         "item": "Poulet",
-        "quantity": 300
+        "quantity": 400
       },
       {
         "item": "Crème",
-        "quantity": 200
+        "quantity": 25
       },
       {
         "item": "Tomates",
         "quantity": 3
+      },
+       {
+        "item": "Ebly",
+        "quantity": 400
       }
     ]
   },
@@ -33,15 +45,19 @@
     "ingredients": [
       {
         "item": "Riz",
-        "quantity": 200
+        "quantity": 400
       },
       {
         "item": "Poisson",
-        "quantity": 2
+        "quantity": 400
       },
       {
         "item": "Crème",
-        "quantity": 200
+        "quantity": 20
+      },
+       {
+        "item": "Oeuf",
+        "quantity": 1
       }
     ]
   },
@@ -50,8 +66,20 @@
     "name": "Tartiflette maison",
     "ingredients": [
       {
-        "item": "Ingrédient mystère",
-        "quantity": 1
+        "item": "Lardons fumés",
+        "quantity": 100
+      },
+       {
+        "item": "Oignon",
+        "quantity": 100
+      },
+       {
+        "item": "Fromage",
+        "quantity": 400
+      },
+       {
+        "item": "Pommes de terre",
+        "quantity": 1000
       }
     ]
   },
@@ -61,15 +89,19 @@
     "ingredients": [
       {
         "item": "Poulet",
-        "quantity": 300
-      },
-      {
-        "item": "Pâtes",
         "quantity": 400
       },
       {
+        "item": "Pâtes",
+        "quantity": 350
+      },
+      {
         "item": "Crème",
-        "quantity": 200
+        "quantity": 20
+      },
+       {
+        "item": "Citron",
+        "quantity": 1
       }
     ]
   },
@@ -79,14 +111,18 @@
     "ingredients": [
       {
         "item": "Dinde",
-        "quantity": 2
+        "quantity": 400
       },
       {
         "item": "Crème",
-        "quantity": 200
+        "quantity": 10
       },
       {
-        "item": "Légumes",
+        "item": "Brocoli",
+        "quantity": 1
+      },
+       {
+        "item": "Citron",
         "quantity": 1
       }
     ]
@@ -96,8 +132,16 @@
     "name": "Salade de lentilles, carottes et houmous",
     "ingredients": [
       {
-        "item": "Légumes",
-        "quantity": 1
+        "item": "Lentilles",
+        "quantity": 350
+      },
+       {
+        "item": "Carottes",
+        "quantity": 4
+      },
+       {
+        "item": "Houmous",
+        "quantity": 100
       }
     ]
   },
@@ -106,8 +150,16 @@
     "name": "Poké bowl maison",
     "ingredients": [
       {
-        "item": "Ingrédient mystère",
-        "quantity": 1
+        "item": "Riz",
+        "quantity": 350
+      },
+       {
+        "item": "Viande au choix",
+        "quantity": 400
+      },
+       {
+        "item": "Légumes au choix",
+        "quantity": 2
       }
     ]
   },
@@ -118,6 +170,10 @@
       {
         "item": "Pain",
         "quantity": 1
+      },
+       {
+        "item": "Légume de saison",
+        "quantity": 1
       }
     ]
   },
@@ -127,19 +183,19 @@
     "ingredients": [
       {
         "item": "Poulet",
-        "quantity": 300
+        "quantity": 400
       },
       {
         "item": "Riz",
-        "quantity": 200
+        "quantity": 250
       },
       {
         "item": "Crème",
-        "quantity": 200
+        "quantity": 25
       },
       {
-        "item": "Tomates",
-        "quantity": 3
+        "item": "Tomates séchées",
+        "quantity": 1
       }
     ]
   },
@@ -148,15 +204,15 @@
     "name": "Gnocchis, épinards et parmesan/fromage",
     "ingredients": [
       {
-        "item": "Pommes de terre",
-        "quantity": 600
+        "item": "Gnocchis",
+        "quantity": 400
       },
       {
         "item": "Fromage",
         "quantity": 100
       },
       {
-        "item": "Légumes",
+        "item": "Epinards",
         "quantity": 1
       }
     ]
@@ -168,6 +224,14 @@
       {
         "item": "Wraps",
         "quantity": 4
+      },
+       {
+        "item": "Viande haché ou pita",
+        "quantity": 400
+      },
+       {
+        "item": "Poivrons",
+        "quantity": 1
       }
     ]
   },
@@ -176,12 +240,16 @@
     "name": "Macaronis au fromage",
     "ingredients": [
       {
-        "item": "Pâtes",
+        "item": "Macaronis",
         "quantity": 400
       },
       {
         "item": "Fromage",
         "quantity": 100
+      },
+       {
+        "item": "Jambon",
+        "quantity": 1
       }
     ]
   },
@@ -191,14 +259,14 @@
     "ingredients": [
       {
         "item": "Poulet",
-        "quantity": 300
+        "quantity": 400
       },
       {
         "item": "Pommes de terre",
         "quantity": 600
       },
       {
-        "item": "Légumes",
+        "item": "Haricots",
         "quantity": 1
       }
     ]
@@ -209,11 +277,23 @@
     "ingredients": [
       {
         "item": "Poulet",
-        "quantity": 300
+        "quantity": 400
       },
       {
         "item": "Pâtes",
         "quantity": 400
+      },
+      {
+        "item": "Poivrons",
+        "quantity": 1
+      },
+      {
+        "item": "Citron",
+        "quantity": 1
+      },
+      {
+        "item": "Concentré de tomates",
+        "quantity": 1
       }
     ]
   },
@@ -222,8 +302,12 @@
     "name": "Risotto au champignons",
     "ingredients": [
       {
-        "item": "Ingrédient mystère",
-        "quantity": 1
+        "item": "Champignons",
+        "quantity": 200
+      },
+      {
+        "item": "Lardons",
+        "quantity": 200
       }
     ]
   },
@@ -242,8 +326,28 @@
     "name": "Butter chicken",
     "ingredients": [
       {
-        "item": "Ingrédient mystère",
+        "item": "Poulet",
+        "quantity": 400
+      },
+      {
+        "item": "Citron",
         "quantity": 1
+      },
+      {
+        "item": "Yaourt grec",
+        "quantity": 60
+      },
+      {
+        "item": "Beurre",
+        "quantity": 50
+      },
+      {
+        "item": "Tomates",
+        "quantity": 600
+      },
+      {
+        "item": "Crème",
+        "quantity": 10
       }
     ]
   },
@@ -252,8 +356,16 @@
     "name": "Poivrons farcis",
     "ingredients": [
       {
-        "item": "Ingrédient mystère",
-        "quantity": 1
+        "item": "Poivrons",
+        "quantity": 2
+      },
+      {
+        "item": "Viande hachée",
+        "quantity": 400
+      },
+      {
+        "item": "Fromage",
+        "quantity": 100
       }
     ]
   },
@@ -262,8 +374,16 @@
     "name": "Hot dog maison",
     "ingredients": [
       {
-        "item": "Ingrédient mystère",
-        "quantity": 1
+        "item": "Saucisses hot dog",
+        "quantity": 4
+      },
+      {
+        "item": "Choucroute",
+        "quantity": 150
+      },
+      {
+        "item": "Pain hot dog",
+        "quantity": 4
       }
     ]
   }
